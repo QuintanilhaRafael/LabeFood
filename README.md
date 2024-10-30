@@ -62,8 +62,8 @@ https://ifood-app.surge.sh/
 
 ## 👩‍💻 Desenvolvedores:
 
-- João Vitor Gomes Lara Resende.
 - Rafael Gonçalves Quintanilha Guimarães.
+- João Vitor Gomes Lara Resende.
 - Nei Luis Duarte Tavares Junior.
 - Rafael Castilho Castro.
 - Lucas Ferreira Arruda.
